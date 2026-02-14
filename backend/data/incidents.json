@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ff754e06-4c35-4f8f-9366-ec656dd3a6d9",
+    "title": "Conveyor jam",
+    "description": "Station 3 conveyor stopped due to part jam",
+    "category": "OPERATIONS",
+    "severity": "HIGH",
+    "status": "ARCHIVED",
+    "reportedAt": "2026-02-14T03:17:45.466Z"
+  },
+  {
+    "id": "3f4786a2-8f15-4b52-a388-28bc4ac0cd6b",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:17:45.469Z"
+  },
+  {
+    "id": "ecc679b6-7859-4ee1-b1a0-86d95e2ce8e1",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:17:45.470Z"
+  },
+  {
+    "id": "b675f243-cce7-4256-b854-8218859eb85f",
+    "title": "Loose guard rail",
+    "description": "Guard rail at line entrance is loose",
+    "category": "SAFETY",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:17:45.470Z"
+  },
+  {
+    "id": "9fac7c4d-a719-4b75-ba72-46c7213797eb",
+    "title": "Inventory scanner delay",
+    "description": "Handheld scanner latency causing delays",
+    "category": "IT",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:17:45.471Z"
+  },
+  {
+    "id": "4e33ee80-be6d-4251-9989-3512403bee9b",
+    "title": "Conveyor jam",
+    "description": "Station 3 conveyor stopped due to part jam",
+    "category": "OPERATIONS",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:18:03.715Z"
+  },
+  {
+    "id": "dfc1daf1-9e4a-46b5-beab-db49b4eb025b",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:18:03.742Z"
+  },
+  {
+    "id": "5dabc77c-da0a-493f-840b-9ac842fd6b34",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T03:18:03.743Z"
+  },
+  {
+    "id": "90f39509-7e57-4ada-92be-25966497ffb6",
+    "title": "Conveyor jam",
+    "description": "Station 3 conveyor stopped due to part jam",
+    "category": "OPERATIONS",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T04:23:29.104Z"
+  },
+  {
+    "id": "9ae681b0-4dea-4965-8423-ee33eb3da60d",
+    "title": "Oil spill near press",
+    "description": "Small oil spill observed near Press A",
+    "category": "SAFETY",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T04:23:29.107Z"
+  },
+  {
+    "id": "e40e1d0f-e12e-4dc0-8922-9bd5ab5c39ea",
+    "title": "Printer outage",
+    "description": "Shipping label printer is offline",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T04:23:29.109Z"
+  },
+  {
+    "id": "b0057885-a5c9-48b8-99f9-36b739be988e",
+    "title": "Loose guard rail",
+    "description": "Guard rail at line entrance is loose",
+    "category": "SAFETY",
+    "severity": "HIGH",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T04:23:29.111Z"
+  },
+  {
+    "id": "32e6f63e-f4eb-4b74-9f32-5bd3e1331545",
+    "title": "Inventory scanner delay",
+    "description": "Handheld scanner latency causing delays",
+    "category": "IT",
+    "severity": "MEDIUM",
+    "status": "OPEN",
+    "reportedAt": "2026-02-14T04:23:29.113Z"
+  }
+]
